@@ -99,62 +99,6 @@ VScode PDDL Tutorial:
 
 [![](http://img.youtube.com/vi/XW0z8Oik6G8/0.jpg)](http://www.youtube.com/watch?v=XW0z8Oik6G8 "")
 
-## Submission Instructions
-
-**Tag your submission** to submit your assignment by completing the following three steps:
-
-1. Complete the [STUDENT.md](STUDENT.md) file with your details of the submission.
-2. Please ensure that your solution does not include personal information, like your student number or name. 
-3. Tag the commit version you want to be graded with tag `submission`. 
-    * The commit and tagging should be dated before the deadline.
-    * Note that a tag is NOT a branch, so do not just create a branch called "submission" as that will not amount to tagging.
-4. Fill the [Project 2 Certification Form](https://forms.gle/hqS6wtsW49in66hd7).
-    * Non-certified submissions will not be marked and will attract zero marks.
-    
-From this repository, we will copy *only* the PDDL files: [domain.pddl](pddl_template/domain.pddl), [problem1.pddl](pddl_template/problem1.pddl), [problem2.pddl](pddl_template/problem2.pddl), and [problem3.pddl](pddl_template/problem3.pddl). Please do not submit any other file with a different name as part of your solution, we will not be able to mark it. Breaking these instructions breaks our marking scripts, delays marks being returned, and more importantly, gives us a headache. Submissions not compatible with the instructions in this document will attract zero marks and do not warrant a re-submission. Staff will not fix your submission.
-
-Please view the following to learn how to *Tag* your commit version you want to be graded:
-
-**How to create a Tag using the Command Line**:
-https://www.loom.com/share/17ec72b954454bc89bbe1dbb0bd2874f
-
-**Another way to create a Tag using the User Interface**:
-https://www.loom.com/share/3cd39e97919e4b688d9841613aba6973
-
-## Important information
-
-**Corrections:** From time to time, students or staff find errors (e.g., typos, unclear instructions, etc.) in the assignment specification. In that case, corrected version of this file will be produced, announced, and distributed for you to commit and push into your repository.  Because of that, you are NOT to modify this file in any way to avoid conflicts.
-
-**Late submissions & extensions:** A penalty of 10% of the maximum mark per day will apply to late assignments up to a maximum of five days, and 100% penalty thereafter. Extensions will only be permitted in _exceptional_ circumstances; refer to [this question](https://docs.google.com/document/d/17YdTmDC54WHq0uZ-2UX3U8ESwULyBDJSD4SjKCrPXlA/edit?usp=sharing) in the course FAQs. 
-
-**About this repo:** You must ALWAYS keep your fork **private** and **never share it** with anybody in or outside the course, except your teammates, _even after the course is completed_. You are not allowed to make another repository copy outside the provided GitHub Classroom without the written permission of the teaching staff. 
-
-> **_Please do not distribute or post solutions to any of the projects._**
-
-**Academic Dishonesty:** This is an advanced course, so we expect full professionalism and ethical conduct.  Plagiarism is a serious issue. Please **don't let us down and risk our trust**. The staff take academic misconduct very seriously. Sophisticated _plagiarism detection_ software (e.g., [Codequiry](https://codequiry.com/), [Turinitin](https://www.turnitin.com/), etc.) will be used to check your code against other submissions in the class as well as resources available on the web for logical redundancy. These systems are really smart, so just do not risk it and keep professional. We trust you all to submit your own work only; please don't let us down. If you do, we will pursue the strongest consequences available to us according to the **University Academic Integrity policy**. For more information on this see file [Academic Integrity](ACADEMIC_INTEGRITY.md).
-
-**We are here to help!:** We are here to help you! But we don't know you need help unless you tell us. We expect reasonable effort from you side, but if you get stuck or have doubts, please seek help. We will ran labs to support these projects, so use them! While you have to be careful to not post spoilers in the forum, you can always ask general questions about the techniques that are required to solve the projects. If in doubt whether a questions is appropriate, post a Private post to the instructors.
-
-**Silence Policy:** A silence policy will take effect **48 hours** before this assignment is due. This means that no question about this assignment will be answered, whether it is asked on the newsgroup, by email, or in person. Use the last 48 hours to wrap up and finish your project quietly as well as possible if you have not done so already. Remember it is not mandatory to do all perfect, try to cover as much as possible. By having some silence we reduce anxiety, last minute mistakes, and unreasonable expectations on others. 
-
-Please remember to follow all the submission steps as per project specification.
-
-## COMP90054 Code of Honour
-
-We expect every UoM student taking this course to adhere to it **Code of Honour** under which every learner-student should:
-
-* Submit their own original work.
-* Do not share answers with others.
-* Report suspected violations.
-* Engage in any other activities that will dishonestly improve their results or dishonestly improve or damage the results of others.
-
-Unethical behaviour is extremely serious and consequences are painful for everyone. We expect enrolled students/learners to take full **ownership** of your work and **respect** the work of teachers and other students.
-
-
-**I hope you enjoy the project and learn from it**, and if you still **have doubts about the project and/or this specification** do not hesitate asking in the [Piazza Course Discussion Forum](https://piazza.com/unimelb.edu.au/fall2020/comp90054/home) and we will try to address it as quickly as we can!
-
-**GOOD LUCK and HAPPY MODELLING!**
-
 
 ### Acknowledgements
 
